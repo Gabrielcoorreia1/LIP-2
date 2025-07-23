@@ -22,7 +22,7 @@ Toda essa segurança, no entanto, tem um preço, e ele se chama curva de aprendi
 
 Essa exigência pode ser frustrante e levar a uma produtividade inicial mais baixa. Tarefas que seriam simples em Python ou Go podem exigir uma reestruturação do pensamento para satisfazer as regras de posse e tempo de vida (*lifetimes*) de Rust. O código pode se tornar mais verboso em certas situações, e os tempos de compilação, embora venham melhorando, ainda são mais lentos que os de linguagens mais simples, justamente por toda a análise que o compilador precisa fazer.
 
-### Veredito: Uma ferramenta poderosa para os problemas certos
+### Uma ferramenta poderosa para os problemas certos
 
 A pergunta que fica é: vale a pena? A resposta é um enfático "depende do problema". Rust não é, e nem tenta ser, uma solução para tudo. Seria um exagero usá-la para um simples script de automação ou para um site institucional.
 
