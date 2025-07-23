@@ -13,11 +13,12 @@ A solução apresentada é um guia textual dividido em três partes para a cria�
 ### 1. Compilador
 
 
-[diagrama do compilador](Compilador.pdf)
 ---
 
 * **O que ele faz:** O compilador é um programa que traduz **todo** o seu código-fonte de uma vez só, gerando um novo arquivo. Esse arquivo, chamado de "executável" (ex: `.exe` no Windows), contém instruções de baixo nível que o processador do computador consegue entender e executar diretamente. Após a compilação, você não precisa mais do compilador para rodar o programa.
 
+[diagrama do compilador](Compilador.pdf)
+---
 ### 2. Interpretador
 ---
 
