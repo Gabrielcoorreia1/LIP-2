@@ -2,7 +2,7 @@
 
 ## Proposta
 
-[cite_start]Neste desafio, a proposta é elaborar um diagrama próprio que explique o funcionamento de compiladores, interpretadores e máquinas virtuais, utilizando exemplos de linguagens de programação para ilustrar cada conceito[cite: 15]. O objetivo é diferenciar visualmente como o código-fonte se transforma em instruções executáveis em cada um desses ambientes.
+Neste desafio, a proposta é elaborar um diagrama próprio que explique o funcionamento de compiladores, interpretadores e máquinas virtuais, utilizando exemplos de linguagens de programação para ilustrar cada conceito. O objetivo é diferenciar visualmente como o código-fonte se transforma em instruções executáveis em cada um desses ambientes.
 
 ## Solução
 
