@@ -1,5 +1,5 @@
 # Desafio 1: Introdução às Linguagens de Programação
-
+Solução
 ## Contexto e Motivação
 
 O estudo da evolução das linguagens de programação é fundamental para compreender os princípios que governam a computação moderna. Cada linguagem nasce de um conjunto de necessidades técnicas, limitações de hardware e aspirações de paradigma de sua época. Analisar essa trajetória nos permite entender não apenas *o que* as linguagens fazem, mas *por que* foram projetadas de determinada maneira.
